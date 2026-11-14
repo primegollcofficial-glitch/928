@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Private ride booking and counseling forms are part of the public site.
+# Add a sitemap here once one is published, for example:
+# Sitemap: https://saad928.com/sitemap.xml
